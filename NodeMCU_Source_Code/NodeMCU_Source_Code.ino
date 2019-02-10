@@ -1,6 +1,6 @@
-/*  DHT11 Sensor With LCD
+/*  NodeMCU ESP8266 Temperature And Humidity With DHT11 / DHT22 Sensor And Flutter App
  *   
- *  GitHub URL - https://github.com/narayanvyas/Arduino-DHT11-Sensor-With-LCD
+ *  GitHub URL - https://github.com/narayanvyas/NodeMCU-Temperature-And-Humidity-With-DHT11-DHT22-Sensor-And-Flutter-App
  * 
  *  Developed By Web Dev Fusion
  *  URL - https://www.webdevfusion.com
